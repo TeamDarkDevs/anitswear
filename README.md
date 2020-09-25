@@ -19,4 +19,4 @@
 <img src="https://image.prntscr.com/image/dghGY8XaTCiHRFT_UBwchw.png" alt="Bot Preview">
 
 - Explan Gif
-<img src="https://media.discordapp.net/attachments/756441190819168266/758891599773040650/ticket_preview.gif?width=1165&height=585" alt="Bot Preview">
+<img src="https://media.discordapp.net/attachments/756441190819168266/758891599773040650/ticket_preview.gif" alt="Bot Preview">
