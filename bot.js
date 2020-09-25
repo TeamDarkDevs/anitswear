@@ -4,7 +4,7 @@ console.log("\nLoading...")
 console.log("If This Take Too long make sure u have add right token!")
 const fs = require('fs')
 const yaml = require("js-yaml");
-const { mainprefix , token } = yaml.load(fs.readFileSync("./config.yml"));
+const { mainprefix , token, status } = yaml.load(fs.readFileSync("./config.yml"));
 const Discord = require('discord.js')
 const client = new Discord.Client();
 const db = require('quick.db')
