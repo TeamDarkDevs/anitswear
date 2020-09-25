@@ -19,4 +19,4 @@
 <img src="https://image.prntscr.com/image/dghGY8XaTCiHRFT_UBwchw.png" alt="Bot Preview">
 
 - Explan Gif
-<img src="https://giphy.com/gifs/gsllGfjv3l0io9VGQ5" alt="Bot Preview">
+<img src="https://media.giphy.com/media/gsllGfjv3l0io9VGQ5/giphy.gif" alt="Bot Preview">
