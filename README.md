@@ -7,8 +7,13 @@
 To self host the bot, clone or download the repository and do the following:
 
 1. npm i
-2. edit config.yml
+2. rename `config.yml.example` to `config.yml`
+4. fill in the values in `config.yml`
 3. npm start
+
+### Note
+If you have trouble installing the dependancy better-sqlite3, please follow this guide
+https://github.com/JoshuaWise/better-sqlite3/blob/master/docs/troubleshooting.md
 
 
 # Bot Pics
