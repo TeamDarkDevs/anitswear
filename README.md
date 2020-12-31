@@ -2,12 +2,14 @@
 - [Info]
 - [Support Server](https://discord.gg/6gzkUNq)
 - Coded By: ! Darkboy🍭#0001
-
+- [License](https://license.darkdevs.net/)
 
 # Self Hosting
 - npm i
 - edit config.yml
 - npm start
+
+
 
 
 # Bot Pics
