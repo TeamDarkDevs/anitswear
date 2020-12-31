@@ -1,24 +1,33 @@
-# Anit-swear Bot
-- [Info]
+# Anit-Swear Bot 
 - [Support Server](https://discord.gg/6gzkUNq)
 - Coded By: ! Darkboy🍭#0001
 - [License](https://license.darkdevs.net/)
 
 # Self Hosting
-- npm i
-- edit config.yml
-- npm start
+To self host the bot, clone or download the repository and do the following:
+
+1. npm i
+2. rename `config.yml.example` to `config.yml`
+4. fill in the values in `config.yml`
+3. npm start
+
+### Note
+If you have trouble installing the dependancy better-sqlite3, please follow this guide
+https://github.com/JoshuaWise/better-sqlite3/blob/master/docs/troubleshooting.md
 
 
 
 
 # Bot Pics
 
+## Adding and Removing Words
 
+![Bot Preview](https://image.prntscr.com/image/pmqG8RzpS9mw3oDO9lJAFQ.png)
 
-<img src="https://image.prntscr.com/image/pmqG8RzpS9mw3oDO9lJAFQ.png" alt="Bot Preview">
-- Another Images
-<img src="https://image.prntscr.com/image/dghGY8XaTCiHRFT_UBwchw.png" alt="Bot Preview">
+## Words List
 
-- Explan Gif
-<img src="https://media.giphy.com/media/gsllGfjv3l0io9VGQ5/giphy.gif" alt="Bot Preview">
+![Bot Preview](https://image.prntscr.com/image/dghGY8XaTCiHRFT_UBwchw.png)
+
+## Explaination Gif
+
+![Bot Preview](https://media.giphy.com/media/gsllGfjv3l0io9VGQ5/giphy.gif)
